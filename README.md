@@ -6,6 +6,8 @@
 
 <h2 align="center">Integrantes del Grupo</h2>
 
+<p>Pueden hacer Click<img align="center" src="https://ugokawaii.com/wp-content/uploads/2023/01/click-1.gif" height="50" width="50" />en sus Avatares para Acceder a sus Respectivos Perfiles de GitHub</p>  
+
 <p>- :white_check_mark: Reyes Leonela >>>
   <a href="https://github.com/Leonela2604" target="blank">
   <img align="center" src="https://avatars.githubusercontent.com/u/104327193?v=4" height="30" width="40" /><br>
@@ -36,3 +38,4 @@
   </a>
 </p>
 
+---
