@@ -32,7 +32,7 @@
   <a href="https://github.com/FacundoGiuliano" target="blank">
   <img align="center" src="https://avatars.githubusercontent.com/u/112036756?v=4" height="40" width="50" /><br>
   </a>
-  - :white_check_mark: Ferro Nicloas >>>
+  - :white_check_mark: Ferro Nicolas >>>
   <a href="https://github.com/nickzf57" target="blank">
   <img align="center" src="https://avatars.githubusercontent.com/u/112594803?v=4" height="40" width="50" /><br>
   </a>
