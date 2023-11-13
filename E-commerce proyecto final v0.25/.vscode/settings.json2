@@ -1,0 +1,11 @@
+{
+    "mysql": {
+      "host": "3306",
+      "user": "root",
+      "password": "admin",
+      "database": "usuarios"
+    },
+    "server": {
+      "port": 3306
+    }
+}
